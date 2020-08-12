@@ -218,4 +218,4 @@ function Welcome(props) {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.7272dd245a598774b53c.hot-update.js.map
+//# sourceMappingURL=index.js.041a93f44d256af28031.hot-update.js.map
